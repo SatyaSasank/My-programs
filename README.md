@@ -1,2 +1,2 @@
-# Plot-program
+# Basic Programs
 simple plot program
